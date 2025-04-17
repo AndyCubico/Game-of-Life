@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life example
 
 This project implements Conway's Game of Life using the p5.js library. The Game of Life is a cellular automaton devised by mathematician John Conway, where simple rules give rise to complex and fascinating patterns.
 
